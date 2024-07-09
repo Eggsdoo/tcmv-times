@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tcmv-times/static/css/main.59feb52c.css",
-    "main.js": "/tcmv-times/static/js/main.e7fb501c.js",
+    "main.js": "/tcmv-times/static/js/main.db42062a.js",
     "static/js/453.c11affd2.chunk.js": "/tcmv-times/static/js/453.c11affd2.chunk.js",
     "static/media/adam.jpg": "/tcmv-times/static/media/adam.a0ab2a6f111fd9e8c26b.jpg",
     "static/media/aisha.jpg": "/tcmv-times/static/media/aisha.101326eab5ff6fd75d92.jpg",
@@ -14,11 +14,11 @@
     "static/media/liyah.jpg": "/tcmv-times/static/media/liyah.40d8268e17d252599dc5.jpg",
     "index.html": "/tcmv-times/index.html",
     "main.59feb52c.css.map": "/tcmv-times/static/css/main.59feb52c.css.map",
-    "main.e7fb501c.js.map": "/tcmv-times/static/js/main.e7fb501c.js.map",
+    "main.db42062a.js.map": "/tcmv-times/static/js/main.db42062a.js.map",
     "453.c11affd2.chunk.js.map": "/tcmv-times/static/js/453.c11affd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59feb52c.css",
-    "static/js/main.e7fb501c.js"
+    "static/js/main.db42062a.js"
   ]
 }
