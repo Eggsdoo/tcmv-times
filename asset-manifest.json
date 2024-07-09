@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/tcmv-times/static/css/main.502c3290.css",
-    "main.js": "/tcmv-times/static/js/main.744476da.js",
+    "main.css": "/tcmv-times/static/css/main.59feb52c.css",
+    "main.js": "/tcmv-times/static/js/main.e7fb501c.js",
     "static/js/453.c11affd2.chunk.js": "/tcmv-times/static/js/453.c11affd2.chunk.js",
+    "static/media/adam.jpg": "/tcmv-times/static/media/adam.a0ab2a6f111fd9e8c26b.jpg",
+    "static/media/aisha.jpg": "/tcmv-times/static/media/aisha.101326eab5ff6fd75d92.jpg",
+    "static/media/kacie.jpg": "/tcmv-times/static/media/kacie.ef641e7554cf23201184.jpg",
+    "static/media/zain.jpg": "/tcmv-times/static/media/zain.f03ca2119897a9f4d507.jpg",
+    "static/media/taiba.jpg": "/tcmv-times/static/media/taiba.5946b9ceea3ce3a07e9b.jpg",
+    "static/media/zohaib.jpg": "/tcmv-times/static/media/zohaib.7d0a2e8f499096f0898d.jpg",
+    "static/media/adham.jpg": "/tcmv-times/static/media/adham.e3a6d3825738219581e9.jpg",
+    "static/media/sameer-naderi.jpg": "/tcmv-times/static/media/sameer-naderi.7fbd3465fe5307a769b0.jpg",
+    "static/media/liyah.jpg": "/tcmv-times/static/media/liyah.40d8268e17d252599dc5.jpg",
     "index.html": "/tcmv-times/index.html",
-    "main.502c3290.css.map": "/tcmv-times/static/css/main.502c3290.css.map",
-    "main.744476da.js.map": "/tcmv-times/static/js/main.744476da.js.map",
+    "main.59feb52c.css.map": "/tcmv-times/static/css/main.59feb52c.css.map",
+    "main.e7fb501c.js.map": "/tcmv-times/static/js/main.e7fb501c.js.map",
     "453.c11affd2.chunk.js.map": "/tcmv-times/static/js/453.c11affd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.502c3290.css",
-    "static/js/main.744476da.js"
+    "static/css/main.59feb52c.css",
+    "static/js/main.e7fb501c.js"
   ]
 }
