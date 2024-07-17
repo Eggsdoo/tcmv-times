@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/tcmv-times/static/css/main.12794857.css",
-    "main.js": "/tcmv-times/static/js/main.bbc0ca6d.js",
+    "main.css": "/tcmv-times/static/css/main.0bb4e377.css",
+    "main.js": "/tcmv-times/static/js/main.2f77663f.js",
     "static/js/453.c11affd2.chunk.js": "/tcmv-times/static/js/453.c11affd2.chunk.js",
-    "static/media/adam.jpg": "/tcmv-times/static/media/adam.a0ab2a6f111fd9e8c26b.jpg",
-    "static/media/aisha.jpg": "/tcmv-times/static/media/aisha.101326eab5ff6fd75d92.jpg",
-    "static/media/maryam.png": "/tcmv-times/static/media/maryam.a056da9ade1e23abfa46.png",
-    "static/media/sarah.jpg": "/tcmv-times/static/media/sarah.d35fc94bb265f5d1862f.jpg",
-    "static/media/sabiba.jpg": "/tcmv-times/static/media/sabiba.b3e8bf4495e784fa88e4.jpg",
-    "static/media/kacie.jpg": "/tcmv-times/static/media/kacie.ef641e7554cf23201184.jpg",
-    "static/media/zain.jpg": "/tcmv-times/static/media/zain.f03ca2119897a9f4d507.jpg",
-    "static/media/taiba.jpg": "/tcmv-times/static/media/taiba.5946b9ceea3ce3a07e9b.jpg",
-    "static/media/zohaib.jpg": "/tcmv-times/static/media/zohaib.7d0a2e8f499096f0898d.jpg",
-    "static/media/adham.jpg": "/tcmv-times/static/media/adham.e3a6d3825738219581e9.jpg",
-    "static/media/sameer.jpg": "/tcmv-times/static/media/sameer.7fbd3465fe5307a769b0.jpg",
-    "static/media/liyah.jpg": "/tcmv-times/static/media/liyah.40d8268e17d252599dc5.jpg",
+    "static/media/content-collage.png": "/tcmv-times/static/media/content-collage.85596da0e7c05527cf6d.png",
+    "static/media/maryam.png": "/tcmv-times/static/media/maryam.0e6e8e15b7f16741fa59.png",
+    "static/media/adam.jpg": "/tcmv-times/static/media/adam.35ccebfdce299ccc49d2.jpg",
+    "static/media/aisha.jpg": "/tcmv-times/static/media/aisha.4f67e6bb32904e5dd485.jpg",
+    "static/media/kacie.jpg": "/tcmv-times/static/media/kacie.eba352587a3b91a074e4.jpg",
+    "static/media/adham.jpg": "/tcmv-times/static/media/adham.a29595793db8e1e934e9.jpg",
+    "static/media/sarah.jpg": "/tcmv-times/static/media/sarah.f8a43439a1897ad6b1de.jpg",
+    "static/media/zohaib.jpg": "/tcmv-times/static/media/zohaib.bf65723b055ed0e5579f.jpg",
+    "static/media/zain.jpg": "/tcmv-times/static/media/zain.d54cf438c06651a9aafb.jpg",
+    "static/media/taiba.jpg": "/tcmv-times/static/media/taiba.0e350b93186c80e9c4fc.jpg",
+    "static/media/sabiba.jpg": "/tcmv-times/static/media/sabiba.448adc4ec4943da24fbc.jpg",
+    "static/media/sameer.jpg": "/tcmv-times/static/media/sameer.5a35bd770fe8a030b1b0.jpg",
+    "static/media/liyah.jpg": "/tcmv-times/static/media/liyah.95af685d80f6abc06f95.jpg",
     "index.html": "/tcmv-times/index.html",
-    "main.12794857.css.map": "/tcmv-times/static/css/main.12794857.css.map",
-    "main.bbc0ca6d.js.map": "/tcmv-times/static/js/main.bbc0ca6d.js.map",
+    "main.0bb4e377.css.map": "/tcmv-times/static/css/main.0bb4e377.css.map",
+    "main.2f77663f.js.map": "/tcmv-times/static/js/main.2f77663f.js.map",
     "453.c11affd2.chunk.js.map": "/tcmv-times/static/js/453.c11affd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12794857.css",
-    "static/js/main.bbc0ca6d.js"
+    "static/css/main.0bb4e377.css",
+    "static/js/main.2f77663f.js"
   ]
 }
