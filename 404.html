@@ -4,11 +4,14 @@
   <meta charset="UTF-8">
   <script type="text/javascript">
     if (!window.location.pathname.startsWith('/tcmv-times')) {
-      var redirectTo = window.location.pathname;
-      window.location.replace('/tcmv-times' + redirectTo + window.location.search + window.location.hash);
+      var pathname = window.location.pathname;
+      var search = window.location.search;
+      var hash = window.location.hash;
+      window.location.replace('/tcmv-times' + pathname + search + hash);
     }
   </script>
 </head>
 <body>
+  <p>Redirecting...</p>
 </body>
 </html>
