@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tcmv-times/static/css/main.9dd8762a.css",
-    "main.js": "/tcmv-times/static/js/main.70e1fa1f.js",
+    "main.js": "/tcmv-times/static/js/main.89b06ec2.js",
     "static/js/453.c11affd2.chunk.js": "/tcmv-times/static/js/453.c11affd2.chunk.js",
     "static/media/content-collage.png": "/tcmv-times/static/media/content-collage.85596da0e7c05527cf6d.png",
     "static/media/maryam.png": "/tcmv-times/static/media/maryam.0e6e8e15b7f16741fa59.png",
@@ -19,11 +19,11 @@
     "static/media/liyah.jpg": "/tcmv-times/static/media/liyah.95af685d80f6abc06f95.jpg",
     "index.html": "/tcmv-times/index.html",
     "main.9dd8762a.css.map": "/tcmv-times/static/css/main.9dd8762a.css.map",
-    "main.70e1fa1f.js.map": "/tcmv-times/static/js/main.70e1fa1f.js.map",
+    "main.89b06ec2.js.map": "/tcmv-times/static/js/main.89b06ec2.js.map",
     "453.c11affd2.chunk.js.map": "/tcmv-times/static/js/453.c11affd2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd8762a.css",
-    "static/js/main.70e1fa1f.js"
+    "static/js/main.89b06ec2.js"
   ]
 }
