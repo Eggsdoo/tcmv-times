@@ -3,12 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <script type="text/javascript">
-    if (!window.location.pathname.startsWith('/tcmv-times')) {
-      var pathname = window.location.pathname;
-      var search = window.location.search;
-      var hash = window.location.hash;
-      window.location.replace('/tcmv-times' + pathname + search + hash);
-    }
+    var newURL = window.location.origin + '/tcmv-times' + window.location.pathname + window.location.search + window.location.hash;
+    window.location.replace(newURL);
   </script>
 </head>
 <body>
