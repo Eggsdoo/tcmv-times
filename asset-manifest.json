@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/tcmv-times/static/css/main.b9bd2742.css",
-    "main.js": "/tcmv-times/static/js/main.01cb199c.js",
+    "main.css": "/tcmv-times/static/css/main.264e232c.css",
+    "main.js": "/tcmv-times/static/js/main.e118efe1.js",
     "static/js/453.c11affd2.chunk.js": "/tcmv-times/static/js/453.c11affd2.chunk.js",
     "static/media/content-collage.png": "/tcmv-times/static/media/content-collage.85596da0e7c05527cf6d.png",
+    "static/media/wajid-zaman.png": "/tcmv-times/static/media/wajid-zaman.e650f8667f951b026e10.png",
     "static/media/maryam.png": "/tcmv-times/static/media/maryam.0e6e8e15b7f16741fa59.png",
     "static/media/podium1.png": "/tcmv-times/static/media/podium1.c43c202e3edf05b5d5e8.png",
     "static/media/journal-four-img.jpg": "/tcmv-times/static/media/journal-four-img.bc23181190f73c7673bf.jpg",
@@ -19,12 +20,12 @@
     "static/media/sameer.jpg": "/tcmv-times/static/media/sameer.5a35bd770fe8a030b1b0.jpg",
     "static/media/liyah.jpg": "/tcmv-times/static/media/liyah.95af685d80f6abc06f95.jpg",
     "index.html": "/tcmv-times/index.html",
-    "main.b9bd2742.css.map": "/tcmv-times/static/css/main.b9bd2742.css.map",
-    "main.01cb199c.js.map": "/tcmv-times/static/js/main.01cb199c.js.map",
+    "main.264e232c.css.map": "/tcmv-times/static/css/main.264e232c.css.map",
+    "main.e118efe1.js.map": "/tcmv-times/static/js/main.e118efe1.js.map",
     "453.c11affd2.chunk.js.map": "/tcmv-times/static/js/453.c11affd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9bd2742.css",
-    "static/js/main.01cb199c.js"
+    "static/css/main.264e232c.css",
+    "static/js/main.e118efe1.js"
   ]
 }
